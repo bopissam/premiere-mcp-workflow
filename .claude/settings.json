@@ -1,9 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "mcp__premiere-pro__list_project_items",
-      "Bash(python3)",
-      "mcp__premiere-pro__razor_timeline_at_time"
+      "mcp__premiere-pro__*",
+      "Bash(python3)"
     ]
   }
 }
